@@ -1,4 +1,4 @@
-# Ex02 Time Table
+# Ex04 Time Table
 ## Date:17/11/2026
 
 ## AIM
@@ -28,7 +28,6 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
-
 <html>
     <head>
         <title>timetable</title>
@@ -43,16 +42,16 @@ Execute the program using runserver command.
   <table border="2" cellspacing="5" cellpadding="6" align="center" bgcolor="yellow">
 
     <tr bgcolor="pink">
-      <th class="head">Day/Time</th>
-      <th class="head">Monday</th>
-      <th class="head">Tuesday</th>
-      <th class="head">Wednesday</th>
-      <th class="head">Thursday</th>
-      <th class="head">Friday</th>
-      <th class="head">Saturday</th>
+      <th >Day/Time</th>
+      <th >Monday</th>
+      <th >Tuesday</th>
+      <th >Wednesday</th>
+      <th >Thursday</th>
+      <th>Friday</th>
+      <th>Saturday</th>
     </tr>
     <tr>
-      <td class="time" bgcolor="pink">8:00 - 9:30</td>
+      <td  bgcolor="pink">8:00 - 9:30</td>
       <td>SNM</td>
       <td>PYTHON</td>
       <td>SNM</td>
@@ -61,7 +60,7 @@ Execute the program using runserver command.
       <td>MAT</td>
     </tr>
     <tr>
-      <td class="time"  bgcolor="pink">9:45 - 11:15</td>
+      <td bgcolor="pink">9:45 - 11:15</td>
       <td>MAT</td>
       <td>FWAD</td>
       <td colspan="2">FREE SLOT</td>
@@ -70,11 +69,11 @@ Execute the program using runserver command.
       <td>FREE SLOT</td>
     </tr>
     <tr>
-      <td class="time" bgcolor="pink">11:15 - 1:15</td>
+      <td bgcolor="pink">11:15 - 1:15</td>
       <td colspan="8" class="lunch" align="center">L U N C H</td>
     </tr>
     <tr>
-      <td class="time" bgcolor="pink" >1:15 - 2:45</td>
+      <td  bgcolor="pink" >1:15 - 2:45</td>
       <td>FWAD</td>
       <td>EMPD</td>
       <td>EDM</td>
@@ -83,7 +82,7 @@ Execute the program using runserver command.
       <td></td>
     </tr>
     <tr>
-      <td class="time" bgcolor="pink">3:00 - 4:30</td>
+      <td  bgcolor="pink">3:00 - 4:30</td>
       <td>PYTHON</td>
       <td>FREE SLOT</td>
       <td>EMPD</td>
@@ -93,45 +92,45 @@ Execute the program using runserver command.
     </tr>
   </table>
   <br>
-  <table class="subjects" border="2"  cellspacing="5" cellpadding="10" align="center" bgcolor="pink">
+  <table border="2"  cellspacing="5" cellpadding="10" align="center" bgcolor="pink">
     <tr bgcolor="orange">
       <th>S. No.</th>
       <th>Subject Code</th>
       <th>Subject Name</th>
     </tr>
     <tr>
-      <td class="center">1.</td>
-      <td class="center">19MA211</td>
+      <td >1.</td>
+      <td >19MA211</td>
       <td>Statistics and Numerical Methods (SNM)</td>
     </tr>
     <tr>
-      <td class="center">2.</td>
-      <td class="center">19MA220</td>
+      <td >2.</td>
+      <td >19MA220</td>
       <td>Mathematics for AI (MAT)</td>
     </tr>
     <tr>
-      <td class="center">3.</td>
-      <td class="center">19AI414</td>
+      <td >3.</td>
+      <td>19AI414</td>
       <td>Fundamentals of Web Application Development (FWAD)</td>
     </tr>
     <tr>
-      <td class="center">4.</td>
-      <td class="center">19AI301</td><td>Python Programming (PYTHON)</td>
+      <td >4.</td>
+      <td >19AI301</td><td>Python Programming (PYTHON)</td>
     </tr>
     <tr>
-      <td class="center">5.</td>
-      <td class="center">19AI303</td>
-      <td>Engineering Mechanics &amp; Product Development (EMPD)</td>
+      <td >5.</td>
+      <td >19AI303</td>
+      <td>Engineering Mechanics and Product Development</td>
+    <tr>
+      <td>6.</td>
+       
+      <td >19AI302</td>
+      <td>Engineering Design and Modelling (EDM)</td>
     </tr>
     <tr>
-      <td class="center">6.</td>
-      <td class="center">19AI302</td>
-      <td>Engineering Design &amp; Modelling (EDM)</td>
-    </tr>
-    <tr>
-      <td class="center">7.</td>
-      <td class="center">19EE305</td>
-      <td>Basic Electrical, Electronics &amp; Measurement Engineering (BEEE)</td>
+      <td >7.</td>
+      <td >19EE305</td>
+      <td>Basic Electrical, Electronics and Measurement Engineering (BEEE)</td>
     </tr>
   </table>
 
@@ -140,7 +139,6 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (26)-1.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
