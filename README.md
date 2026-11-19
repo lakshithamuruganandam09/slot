@@ -35,11 +35,11 @@ Execute the program using runserver command.
 <body>
 <center>
     <img src="logo.png" width="600" heigth="90">
-</center>
+
 
 <h2 align="center">SLOT TIME TABLE - LAKSHITHA M (26018363) </h2>
 
-  <table border="2" cellspacing="5" cellpadding="6" align="center" bgcolor="yellow">
+  <table border="2" cellspacing="5" cellpadding="6" align="center" bgcolor="orange">
 
     <tr bgcolor="pink">
       <th >Day/Time</th>
@@ -70,7 +70,7 @@ Execute the program using runserver command.
     </tr>
     <tr>
       <td bgcolor="pink">11:15 - 1:15</td>
-      <td colspan="8" class="lunch" align="center">L U N C H</td>
+      <td colspan="8" align="center">L U N C H</td>
     </tr>
     <tr>
       <td  bgcolor="pink" >1:15 - 2:45</td>
@@ -92,8 +92,8 @@ Execute the program using runserver command.
     </tr>
   </table>
   <br>
-  <table border="2"  cellspacing="5" cellpadding="10" align="center" bgcolor="pink">
-    <tr bgcolor="orange">
+  <table border="2"  cellspacing="5" cellpadding="10" align="center" >
+    <tr >
       <th>S. No.</th>
       <th>Subject Code</th>
       <th>Subject Name</th>
@@ -133,13 +133,12 @@ Execute the program using runserver command.
       <td>Basic Electrical, Electronics and Measurement Engineering (BEEE)</td>
     </tr>
   </table>
-
+</center>
 </body>
 </html>
 ```
-
 ## OUTPUT
-![alt text](image.png)
+![alt text](<Screenshot (30).png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
