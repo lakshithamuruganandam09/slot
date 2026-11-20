@@ -34,12 +34,12 @@ Execute the program using runserver command.
     </head>
 <body>
 <center>
-    <img src="logo.png" width="600" heigth="90">
+    <img src="logo.png" width="500" heigth="90">
 
 
 <h2 align="center">SLOT TIME TABLE - LAKSHITHA M (26018363) </h2>
 
-  <table border="2" cellspacing="5" cellpadding="6" align="center" bgcolor="orange">
+  <table border="2" cellspacing="5" cellpadding="6" align="center" bgcolor="blue">
 
     <tr bgcolor="pink">
       <th >Day/Time</th>
@@ -93,42 +93,43 @@ Execute the program using runserver command.
   </table>
   <br>
   <table border="2"  cellspacing="5" cellpadding="10" align="center" >
-    <tr >
-      <th>S. No.</th>
+    <tr bgcolor="orange">
+      <th>S. No</th>
       <th>Subject Code</th>
       <th>Subject Name</th>
     </tr>
     <tr>
-      <td >1.</td>
+      <td >1</td>
       <td >19MA211</td>
       <td>Statistics and Numerical Methods (SNM)</td>
     </tr>
     <tr>
-      <td >2.</td>
+      <td >2</td>
       <td >19MA220</td>
       <td>Mathematics for AI (MAT)</td>
     </tr>
     <tr>
-      <td >3.</td>
+      <td >3</td>
       <td>19AI414</td>
       <td>Fundamentals of Web Application Development (FWAD)</td>
     </tr>
     <tr>
-      <td >4.</td>
-      <td >19AI301</td><td>Python Programming (PYTHON)</td>
+      <td >4</td>
+      <td >19AI301</td>
+      <td>Python Programming (PYTHON)</td>
     </tr>
     <tr>
-      <td >5.</td>
+      <td >5</td>
       <td >19AI303</td>
       <td>Engineering Mechanics and Product Development</td>
     <tr>
-      <td>6.</td>
+      <td>6</td>
        
       <td >19AI302</td>
       <td>Engineering Design and Modelling (EDM)</td>
     </tr>
     <tr>
-      <td >7.</td>
+      <td >7</td>
       <td >19EE305</td>
       <td>Basic Electrical, Electronics and Measurement Engineering (BEEE)</td>
     </tr>
@@ -136,9 +137,10 @@ Execute the program using runserver command.
 </center>
 </body>
 </html>
+
 ```
 ## OUTPUT
-![alt text](<Screenshot (30).png>)
+![alt text](<Screenshot (31).png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
